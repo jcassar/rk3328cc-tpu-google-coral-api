@@ -9,4 +9,4 @@ Supported architectures:
 - Linux on x86_64
 - Raspberry Pi 3 Model B on arm32
 - Raspberry Pi 3 B+ on arm32
-- Generic Linux ARM64 platform (Tested on Firefly ROC RK33280-CC Renegate
+- Generic Linux ARM64 platform (Tested on Firefly ROC RK33280-CC Renegate)
